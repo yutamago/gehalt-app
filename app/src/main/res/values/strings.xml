@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gehaltsrechner</string>
+    <string name="du_verdienst_d_euro_stunde">Du verdienst %f Euro/Stunde</string>
+</resources>
